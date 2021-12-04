@@ -1,1 +1,2 @@
 đây là file demo.
+đây là dòng thứ 2 mà tôi đã sửa và tôi sẽ push lên ngay sau đây.
